@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yes OR No</string>
+    <string name="try_again">Try Again</string>
+    <string name="no">NO</string>
+    <string name="yes">NO</string>
+    <string name="maybe">NO</string>
+</resources>
